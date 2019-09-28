@@ -1,0 +1,1 @@
+I learnt how to create the virtual machines using a script written in the Vagrant files and how it provisions number of virtual machines spun up using the same vagrant file. I created single topology and multi-machine topology by using Ubuntu and Centos base images. Furthermore, I learnt how to install Apache server into the machine and ssh into it.
